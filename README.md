@@ -1,6 +1,6 @@
 # RegisterLoginProject
 
-This is a web application project that implements a login and registration system using JSP, Servlets, HTML, CSS, and a database for storing user information.
+This is a web application project that implements a login and registration system using JSP, Servlets, HTML, CSS, and JDBC.
 
 ## Technologies Used
 
@@ -8,7 +8,7 @@ This is a web application project that implements a login and registration syste
 - Servlets: Used to handle HTTP requests and responses, and to interact with the database.
 - HTML: Used for structuring the web pages and user interface elements.
 - CSS: Used for styling the web pages to make them visually appealing.
-- Database: Used to store user information such as usernames, passwords, and other relevant data.
+- JDBC: Used to store user information such as usernames, passwords, and other relevant data.
 
 ## Features
 
