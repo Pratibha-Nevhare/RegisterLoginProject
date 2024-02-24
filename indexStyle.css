@@ -1,0 +1,45 @@
+@charset "ISO-8859-1";
+body {
+    font-family: Arial, sans-serif;
+    background-color: #408080;
+    color: #fff;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    font-weight:900;
+    background-image: url('beach.jpg');
+    background-size: cover; 
+    background-position: center;   
+}
+
+h1 {
+    color: #007bff;
+}
+
+h3 {
+    font-style: italic;
+    color:#000000;
+}
+
+.links {
+    margin-top: 20px;
+}
+
+a {
+    display: inline-block;
+    margin: 0 10px;
+    padding: 10px 20px;
+    text-decoration: none;
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 5px;
+}
+
+a:hover {
+    background-color: #0056b3;
+}
+
+.emoji {
+    font-size: 20px;
+    margin: 0 5px;
+}
